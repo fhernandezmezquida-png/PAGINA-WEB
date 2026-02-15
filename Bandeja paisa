@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Bandeja Paisa</title>
+</head>
+<body>
+    <header>
+        <h1>BANDEJA PAISA</h1>
+        <img src="c:\Users\LenovoV14G4-AMN\Downloads\Bandepaisabog.jpg" alt="Bandeja Paisa" width="400">
+    <p><strong>Tiempo de cocción:</strong> 90 minutos</p>
+
+    <h2>Ingredientes</h2>
+
+    <table border="1">
+        <tr>
+            <th>Ingrediente</th>
+            <th>Cantidad</th>
+        </tr>
+        <tr>
+            <td>Frijoles</td>
+            <td>2 tazas</td>
+        </tr>
+        <tr>
+            <td>Arroz</td>
+            <td>1 taza</td>
+        </tr>
+        <tr>
+            <td>Carne molida</td>
+            <td>200 g</td>
+        </tr>
+        <tr>
+            <td>Chicharrón</td>
+            <td>150 g</td>
+        </tr>
+    </table>
+
+    <br>
+    <a href="PATODONALD.html">⬅ Volver al inicio</a>
+
+</body>
+</html>
