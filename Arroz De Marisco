@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Arroz de Mariscos</title>
+</head>
+<body>
+
+    <h1>Arroz de Mariscos</h1>
+
+    <img src="c:\Users\LenovoV14G4-AMN\Downloads\Arroz_mariscos_col.jpg" alt="Arroz de Mariscos" width="400">
+
+    <p><strong>Tiempo de cocción:</strong> 50 minutos</p>
+
+    <h2>Ingredientes</h2>
+
+    <table border="1">
+        <tr>
+            <th>Ingrediente</th>
+            <th>Cantidad</th>
+        </tr>
+        <tr>
+            <td>Arroz</td>
+            <td>2 tazas</td>
+        </tr>
+        <tr>
+            <td>Camarones</td>
+            <td>200 g</td>
+        </tr>
+        <tr>
+            <td>Calamares</td>
+            <td>150 g</td>
+        </tr>
+        <tr>
+            <td>Mejillones</td>
+            <td>150 g</td>
+        </tr>
+        <tr>
+            <td>Cebolla</td>
+            <td>1 unidad</td>
+        </tr>
+        <tr>
+            <td>Ajo</td>
+            <td>2 dientes</td>
+        </tr>
+    </table>
+
+    <br>
+    <a href="PATODONALD.html">⬅ Volver al inicio</a>
+
+</body>
+</html>
