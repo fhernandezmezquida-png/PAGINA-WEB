@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>PATO DONALD</title>
+</head>
+<body>
+
+    <header>
+        <h1>PATO DONALD</h1>
+        <nav>
+            <ul>
+                <li><a href="bandejapaisa.html">Bandeja Paisa</a></li>
+                <li><a href="arrozdemarisco.html">Arroz De Marisco</a></li>
+                <li><a href="ajiaco.html">Ajiaco</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>        
+        <section>
+            <h2>Bienvenido Al Menú</h2> 
+            <p>Van a disfrutar de unos platos deliciosos que preparo con mucho amor y cuidado. Estos son algunos de los platos que ofrecemos, arriba de este texto pueden ver los link de cada uno de ellos sus ingredientes y tiempo de coccion</p>
+            <ul>
+                <li>Bandeja Paisa</li>
+                <li>Arroz de Marisco</li>
+                <li>Ajiaco</li>
+
+            </ul>
+        </section>
+
+</body>
+</html>
